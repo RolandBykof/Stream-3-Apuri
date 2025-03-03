@@ -1,14 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "z0or4/+G9sQ=",
+  "dgSpecHash": "zuWEsvOjbHs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\villel\\Documents\\GitHub\\dotnet\\stream-apuri-graafinen\\DaisyBookManager.csproj",
+  "projectFilePath": "C:\\Users\\villel\\Documents\\GitHub\\Stream-3-Apuri\\DaisyBookManager.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\villel\\.nuget\\packages\\mediadevices\\1.10.0\\mediadevices.1.10.0.nupkg.sha512",
-    "C:\\Users\\villel\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
-    "C:\\Users\\villel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.2\\microsoft.netcore.app.runtime.win-x64.9.0.2.nupkg.sha512",
-    "C:\\Users\\villel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.2.nupkg.sha512",
-    "C:\\Users\\villel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.2\\microsoft.aspnetcore.app.runtime.win-x64.9.0.2.nupkg.sha512"
+    "C:\\Users\\villel\\.nuget\\packages\\mediadevices\\1.10.0\\mediadevices.1.10.0.nupkg.sha512"
   ],
   "logs": []
 }

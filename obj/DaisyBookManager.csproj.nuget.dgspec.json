@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\villel\\Documents\\GitHub\\dotnet\\stream-apuri-graafinen\\DaisyBookManager.csproj": {}
+    "C:\\Users\\villel\\Documents\\GitHub\\Stream-3-Apuri\\DaisyBookManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\villel\\Documents\\GitHub\\dotnet\\stream-apuri-graafinen\\DaisyBookManager.csproj": {
+    "C:\\Users\\villel\\Documents\\GitHub\\Stream-3-Apuri\\DaisyBookManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\villel\\Documents\\GitHub\\dotnet\\stream-apuri-graafinen\\DaisyBookManager.csproj",
+        "projectUniqueName": "C:\\Users\\villel\\Documents\\GitHub\\Stream-3-Apuri\\DaisyBookManager.csproj",
         "projectName": "DaisyBookManager",
-        "projectPath": "C:\\Users\\villel\\Documents\\GitHub\\dotnet\\stream-apuri-graafinen\\DaisyBookManager.csproj",
+        "projectPath": "C:\\Users\\villel\\Documents\\GitHub\\Stream-3-Apuri\\DaisyBookManager.csproj",
         "packagesPath": "C:\\Users\\villel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\villel\\Documents\\GitHub\\dotnet\\stream-apuri-graafinen\\obj\\",
+        "outputPath": "C:\\Users\\villel\\Documents\\GitHub\\Stream-3-Apuri\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\villel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,12 +47,6 @@
             "MediaDevices": {
               "target": "Package",
               "version": "[1.10.0, )"
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.2, )",
-              "autoReferenced": true
             }
           },
           "imports": [
@@ -66,20 +60,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[9.0.2, 9.0.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[9.0.2, 9.0.2]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[9.0.2, 9.0.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -89,11 +69,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }

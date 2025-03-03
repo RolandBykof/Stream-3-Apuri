@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaisyBookManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9d41359f68f3e58a472672a48c65f9f4c817c7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a0cc74a1a9dad8e2b8eae553a4a0270699306c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaisyBookManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaisyBookManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
