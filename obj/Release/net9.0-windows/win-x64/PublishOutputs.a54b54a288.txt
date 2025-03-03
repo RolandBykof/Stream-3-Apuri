@@ -1,0 +1,2 @@
+C:\Users\villel\Documents\GitHub\dotnet\stream-apuri-graafinen\bin\Release\net9.0-windows\win-x64\publish\DaisyBookManager.pdb
+C:\Users\villel\Documents\GitHub\dotnet\stream-apuri-graafinen\bin\Release\net9.0-windows\win-x64\publish\DaisyBookManager.exe
